@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Magistral';
+    src: url('../fonts/magistral.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'MagistralB';
+    src: url('../fonts/magistralb.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Myriad';
+    src: url('../fonts/myriad.otf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'MyriadB';
+    src: url('../fonts/myriadb.otf') format('truetype');
+    font-weight: bold;
+}

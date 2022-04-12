@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: *?*
+Disallow: /admin
+Disallow: /b2b
+Disallow: /go
+Disallow: /hospital
+Disallow: /statistic
+Disallow: /anketa-list
+Disallow: /consult/video
+Disallow: /doctor/view/ec2378d3-09e6-11ea-8b82-c81f66e67cd7
+
+Host: https://0323.ru/
