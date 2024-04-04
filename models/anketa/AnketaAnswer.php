@@ -23,7 +23,7 @@ class AnketaAnswer extends ActiveRecord
     public function attributeLabels()
     {
         return [
-            'id'=>'ID',
+            'id'=>'id',
             'question_id'=>'ID вопроса',
             'name'=>'Текст ответа',
             'cost'=>'Баллы'
