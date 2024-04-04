@@ -45,7 +45,7 @@ class Anketa extends ActiveRecord
     public function attributeLabels()
     {
         return [
-            'id'=>'ID',
+            'id'=>'id',
             'name'=>'Название',
             'desc'=>'Описание',
             'file'=>'Файл анкеты',
